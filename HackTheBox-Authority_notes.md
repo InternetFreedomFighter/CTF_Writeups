@@ -134,10 +134,10 @@ X-Pwm-Amb: in the future, you'll just /think/ your password
 
 
 ```bash
-gene@th0nkpad-1:~/ctf-challenges/hackthebox/medium/authority$ dig +noall +answer @10.129.237.228 authority.htb 
+REDACTED@th0nkpad-1:~/ctf-challenges/hackthebox/medium/authority$ dig +noall +answer @10.129.237.228 authority.htb 
 authority.htb.          600     IN      A       10.129.237.228
                                                                                                                                                                        
-gene@th0nkpad-1:~/ctf-challenges/hackthebox/medium/authority$ dig +noall +answer @10.129.237.228 authority.htb.corp
+REDACTED@th0nkpad-1:~/ctf-challenges/hackthebox/medium/authority$ dig +noall +answer @10.129.237.228 authority.htb.corp
 authority.htb.corp.     1200    IN      A       10.129.237.228
 
 
